@@ -13,8 +13,10 @@ In this README we are going to show the language used, operating system and how 
 
 1. **Clone this repository to your local machine:**
    
+    ```bash
    git clone https://github.com/your-username/ProjectSK.git
    
 2. **Run the script from the command line:**
    
+   ```bash
    python Proyecto.py
